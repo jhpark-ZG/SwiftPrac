@@ -44,10 +44,6 @@ func printPoint() -> Void{
 
 var tem : Int = 10
 
-
-
-
-
 if tem < 15{
     print("추움 입어")
 }
