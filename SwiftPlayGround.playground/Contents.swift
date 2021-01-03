@@ -56,5 +56,3 @@ func whatIsGrade(point : Int) -> Character{
         return "D"
     }
 }
-
-print("aaaa");
